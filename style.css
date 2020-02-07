@@ -1,0 +1,97 @@
+.navbar {
+	margin: auto;
+	background-color: lightblue;
+	text-align: center;
+	height:60px;
+	margin-bottom: 10px;
+	border-style: solid;
+		border-color: blue;
+	
+}
+
+
+	.heroimg {
+		margin: auto;
+		background-color:lightblue;
+		text-align:center;
+		height:300px;
+		border-style: solid;
+		border-color: blue;
+		margin-bottom: 10px;
+		
+	}
+
+	.about {
+		height:300px;
+		background-color:pink;
+		float:left;
+		width:59%;
+		border-style: solid;
+		border-color: red;
+		margin-right: 4px;
+		text-align:center;
+		
+		
+		
+	}
+	
+	
+	.social {
+		height:300px;
+		background-color:pink;
+		float:right;
+		width:39%;
+		border-style: solid;
+		border-color: red;
+		margin-bottom:10px;
+		text-align:center;
+	}
+	.case {
+		margin: auto;
+		background-color:lightblue;
+		text-align:center;
+		height:200px;
+		border-style: solid;
+		border-color: blue;
+		margin-bottom: 10px;
+		clear:both;
+		margin-top:10px;
+	text-align:center;
+	}
+	
+	
+	.who {
+		height:100px;
+		background-color:pink;
+		float:left;
+		width:32%;
+		border-style: solid;
+		border-color: red;
+		margin-bottom:10px;
+		text-align:center;
+			margin-right:1%
+		
+	}
+	
+	.what {
+		height:100px;
+		background-color:pink;
+		float:right;
+		width:32%;
+		border-style: solid;
+		border-color: red;
+		margin-bottom:10px;
+		text-align:center;
+		
+	}
+	.join {
+		height:100px;
+		background-color:pink;
+		float:left;
+		width:32.5%;
+		border-style: solid;
+		border-color: red;
+		margin-bottom:10px;
+		text-align:center;
+		margin-right:1%
+	}
